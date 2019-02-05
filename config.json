@@ -2,7 +2,7 @@
 	"version": "0.3",
 	"support": "https://discord.gg/yKQ2q8C",
 	"token": "NTM2MTQ1MzMyNDk3ODA5NDI4.DzsKmA.kqmEOdRLO5yPkJ9iTK_rEFuZasY",
-	"prefix": "k.",
+	"prefix": ".",
 	"owner": [
 		"put-your-userid-here"
 	],
@@ -23,21 +23,21 @@
 		"token": "NTM2MTQ1MzMyNDk3ODA5NDI4.DzsKmA.kqmEOdRLO5yPkJ9iTK_rEFuZasY"
 	},
 	"presence": [
-		"help",
-		"@mention help",
+		".help | hello world",
+		".help | SOON",
 		["you", "WATCHING"],
-		"with your heart",
-		"puzzle",
+		".help | with your heart",
+		".help | puzzle",
 		["Hyouka", "WATCHING"]
 	],
 	"log": {
 		"logging": true,
 		"channel": {
-			"guilds": "channel-id-for-guild-events",
-			"cmdError": "channel-id-for-command-error-log",
-			"info": "channel-id-for-other-info-log",
-			"warn": "channel-id-for-other-warning-log",
-			"error": "channel-id-for-other-error-log"
+			"guilds": "541945465013534723",
+			"cmdError": "542315637574467625",
+			"info": "542315637574467625",
+			"warn": "542315637574467625",
+			"error": "542315637574467625"
         }
 	},
 	"debug": false
