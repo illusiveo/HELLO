@@ -1,15 +1,15 @@
 {
 	"version": "0.3",
-	"support": "invite-to-your-support-server",
-	"token": "put-your-token-here",
-	"prefix": "/",
+	"support": "https://discord.gg/yKQ2q8C",
+	"token": "NTM2MTQ1MzMyNDk3ODA5NDI4.DzsKmA.kqmEOdRLO5yPkJ9iTK_rEFuZasY",
+	"prefix": "k.",
 	"owner": [
 		"put-your-userid-here"
 	],
 	"guilds": [],
 	"dmCommand": true,
 	"tracking": [],
-	"botname": "BotName",
+	"botname": "Kara",
 	"database": "mongodb-connection-uri",
 	"cleverbot": {
 		"user": "cleverbot.io_api_user",
@@ -20,7 +20,7 @@
 		"webhookAuth": "webhook-password"
 	},
 	"discordBotsGG": {
-		"token": "put-api-token"
+		"token": "NTM2MTQ1MzMyNDk3ODA5NDI4.DzsKmA.kqmEOdRLO5yPkJ9iTK_rEFuZasY"
 	},
 	"presence": [
 		"help",
